@@ -1,3 +1,6 @@
+##probably slightly broken
+## error when converting base64 svg stuff, in tokenURI instead of data/Image still gettign date/application, too lazy to fix so far
+
 # Foundry NFT
 
 This is a section of the Cyfrin Foundry Solidity Course.
